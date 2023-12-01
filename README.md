@@ -1,7 +1,8 @@
 # Alien Invasion Project
 
 This project is based on the "Alien Invasion" project from the book "Python Crash Course" by Eric Matthes. It's a simple game where the player controls a spaceship and shoots aliens.
-![Spaceship Image](sample.png)
+
+![Spaceship Image](sample)
 
 ## Learning Journey
 
@@ -22,3 +23,25 @@ These instructions will help you get a copy of the project up and running on you
 
    ```bash
    git clone https://github.com/your-username/alien-invasion.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd alien-invasion
+   ```
+
+3. Run the game:
+
+   ```bash
+   python alien_invasion.py
+   ```
+
+## Controls
+
+- **Left Arrow Key:** Move the spaceship to the left.
+- **Right Arrow Key:** Move the spaceship to the right.
+- **Space Key:** Shoot lasers to destroy aliens.
+
+Feel free to customize and modify the game to enhance your Python programming skills. Have fun playing and coding!
+```
