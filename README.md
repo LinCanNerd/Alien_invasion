@@ -2,7 +2,7 @@
 
 This project is based on the "Alien Invasion" project from the book "Python Crash Course" by Eric Matthes. It's a simple game where the player controls a spaceship and shoots aliens.
 
-![Spaceship Image](sample)
+![Spaceship Image](sample.png)
 
 ## Learning Journey
 
@@ -44,4 +44,4 @@ These instructions will help you get a copy of the project up and running on you
 - **Space Key:** Shoot lasers to destroy aliens.
 
 Feel free to customize and modify the game to enhance your Python programming skills. Have fun playing and coding!
-```
+
