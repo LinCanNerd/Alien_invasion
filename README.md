@@ -1,6 +1,7 @@
 # Alien Invasion Project
 
 This project is based on the "Alien Invasion" project from the book "Python Crash Course" by Eric Matthes. It's a simple game where the player controls a spaceship and shoots aliens.
+![Spaceship Image](sample.png)
 
 ## Learning Journey
 
